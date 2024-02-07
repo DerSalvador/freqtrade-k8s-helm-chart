@@ -1,11 +1,11 @@
 # FreqTrading as a Serice
 
 This repo holds a free minimal version of the professional solution [Trading as a Service](https://tradingaas.ai). Please check it out 
-if you want to run your Freqtrade bots on professional infrastructure with a lot of automation around Freqtrade Toolstack.
+if you want to run your [Freqtrade](https://github.com/freqtrade/freqtrade) bots on professional infrastructure with a lot of automation around [Freqtrade](https://github.com/freqtrade/freqtrade) Toolstack.
 
 Please feel also free to use this free version as an alternative to the official recommendations for running Freqtrade (docker-compose, scripts).
 
-All credits go to the Freqtrade team, which is doing a great job.
+All credits go to the [Freqtrade](https://github.com/freqtrade/freqtrade) team, which is doing a great job.
 
 # Kubernetes Helm Chart for Freqtrade 
 
