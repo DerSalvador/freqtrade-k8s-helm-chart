@@ -3,7 +3,7 @@
 This repo holds a free minimal version of the professional solution [Trading as a Service](https://tradingaas.ai). Please check it out 
 if you want to run your Freqtrade bots on professional infrastructure with a lot of automation around Freqtrade Toolstack.
 
-Please feel also free to use this free version as an alterantive to the official recommendations (docker-compose, scripts).
+Please feel also free to use this free version as an alternative to the official recommendations for running Freqtrade (docker-compose, scripts).
 
 All credits go to the Freqtrade team, which is doing a great job.
 
