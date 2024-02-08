@@ -1,4 +1,4 @@
-# FreqTrading as a Serice
+# FreqTrading as a Service
 
 This repo holds a free minimal version of the professional solution [Trading as a Service](https://tradingaas.ai). Please check  [Trading as a Service](https://tradingaas.ai) out 
 if you want to run your [Freqtrade](https://github.com/freqtrade/freqtrade) bots on professional infrastructure with a lot of automation around [Freqtrade](https://github.com/freqtrade/freqtrade) Toolstack.
