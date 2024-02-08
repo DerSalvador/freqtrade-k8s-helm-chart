@@ -16,7 +16,7 @@ Please check the logs after deployment for
 freqtrade.exchange.exchange - INFO - Instance is running with dry_run enabled
 ```
 
-## Prerequistes
+## Prerequisites
 
 Look for the appropriate latest version of your preferred OS. Ask ChatGPT/Google to help you.
 
