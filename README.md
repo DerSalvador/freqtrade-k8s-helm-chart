@@ -26,7 +26,7 @@ Look for the appropriate latest version of your preferred OS. Ask ChatGPT/Google
 - minikube
 - stern (optional)
 
-This helm chart was tested on minikube for Mac. It should run without any changes on all minikube distribution beginning with version, see below.
+This helm chart was tested on minikube for Mac. It should run without any changes on all minikube distributions with default configuration beginning with version, see below.
 On professional cloud platforms like Google GKE more requirements and costs arise like compute engine, firewalls, connectivity, secrets management, etc.  
 
 ```
