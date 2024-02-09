@@ -26,7 +26,7 @@ Look for the appropriate latest version of your preferred OS. Ask ChatGPT/Google
 - minikube
 - stern (optional)
 
-This helm chart was tested on minikube for Mac. It should run without any changes on all minikube distributions with default configuration beginning with version.
+This helm chart was tested on minikube for Mac. It should run without any changes on all minikube distributions with default configuration beginning with version
 ```
 minikube version: v1.32.0
 commit: 8220a6eb95f0a4d75f7f2d7b14cef975f050512d
